@@ -31,4 +31,4 @@ and in the **settings.py :  DIRS=\[ "__templates__"]**
 
 
 
-<img src="                                                          
+<img src="https://github.com/raghav1674/TeXtUtils-django-Practice/blob/master/text-utils-a.PNG" />                                                          
