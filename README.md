@@ -27,4 +27,4 @@ and run  `python manage.py runserver`
 
 
 Then create a new folder named **templates** in the same location where **manage.py** is there.
-and in the settings.py :  DIRS=\[ "__templates__"]
+and in the **settings.py :  DIRS=\[ "__templates__"]**
